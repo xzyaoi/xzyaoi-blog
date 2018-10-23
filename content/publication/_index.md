@@ -13,5 +13,5 @@ list_format = 3
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = ""
-caption = ""
+caption = "CVTron Web: A Versatile Framework for Online Computer Vision Services"
 +++

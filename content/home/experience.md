@@ -19,27 +19,35 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Associate Founder"
+  company = "AICAMP.CO.,LTD"
+  company_url = "https://hub.autoai.org"
+  location = "Hong Kong"
+  date_start = "2018-05-12"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Develop CVPM and its peripheries
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Engineer Lead"
+  company = "Zhitan Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Shenzhen"
+  date_start = "2017-07-01"
+  date_end = "2018-07-01"
+  description = """Develop personal assitant and food recommendation software"""
+
+[[experience]]
+  title = "Data Scientist (Intern)"
+  company = "Shenzhen Institute of Advanced Research, CAS"
+  company_url = "http://english.siat.cas.cn/"
+  location = "Shenzhen"
+  date_start = "2016-03-01"
+  date_end = "2017-03-01"
+  description = """Develop algorithms and softwares to visualize and recommend healthy food."""
 
 +++
