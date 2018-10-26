@@ -1,6 +1,9 @@
 +++
-title = "Publications"
-date = 2017-01-01T00:00:00
+title = "CVTron Web: A Versatile Framework for Online Computer Vision Services"
+date = 2018-06-01T00:00:00
+
+title = "Face Based Advertisement Recommendation with Deep Learning: A Case Study"
+date = 2017-10-01T00:00:00
 
 # List format.
 #   0 = Simple
